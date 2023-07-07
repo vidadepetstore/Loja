@@ -1,0 +1,17 @@
+body{
+    background: url(./depositphotos_378779124-stock-photo-pet-accessories-and-bowl-with.jpg);
+    background-size: cover;
+    justify-content: center;
+    align-items: flex-end;
+    position: relative;
+    
+}
+#frase{
+    display: flex;
+    justify-content: center;
+ align-items: flex-end;
+position: fixed;
+bottom: 0;
+width: 100%;
+    
+}
